@@ -1,0 +1,1 @@
+java -jar MCSTORM.jar globalmc.com.vn:21 340 ultimatesmasher 50000 -1
